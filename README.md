@@ -1,5 +1,7 @@
 # Learn-CodeWhisperer
 
+Exploration of AI Programming Assistant.
+
 ## User Actions
 
 > For VS Code
